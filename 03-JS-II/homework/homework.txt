@@ -1,0 +1,7 @@
+Los siguientes son comandos iterativos que nos permiten realizar comandos o instrucciones que se ejecutaran de manera cíclica 
+mientras se cumpla una condición.
+* `for`    la instrucción for nos permite ejecutar un conjunto de comandos durante un ciclo finito determinado por una condición.
+
+* `&&`, `||`, `!`.  Son operadores lógicos (de comparación), `&&`: es un operador de encadenamiento entre dos o más condiciones que deben
+  ser cumplidas (o no), `||`: es un operador lógico de conexión que sifnifica que dos o más condiciones se cumplan (o no), y por último, `!`:
+  es un operador lógico que significa la negación de una condición.

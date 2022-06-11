@@ -1,0 +1,8 @@
+* `prototype`. Los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí. La idea de la herencia 
+    basada en prototipos JavaScript es definir un objeto (el objeto “padre” o prototipo) donde se aloja toda la información común que comparten todos
+    los objetos de ese tipo (los objetos “hijos”). De esta manera se evita que cada objeto repita las propiedades y métodos comunes, lo cual ahorra 
+    memoria y agiliza la ejecución.
+
+
+* _Constructors_ (de Clases). El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
+  Sólo puede haber un método especial con el nombre de "constructor" en una clase. Un error de sintaxis será lanzado, si la clase contiene más de una ocurrencia de un método constructor.

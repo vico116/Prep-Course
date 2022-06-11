@@ -1,0 +1,2 @@
+  * Arrays. Son un conjunto de datos agrupados en una variable con un identificador que los ordena de acuerdo a su posición en este tipo de dato,
+    ejemplo de arrays pueden ser: alumnos = ["jorge", "juan", "pedro"]  o también: carros = ["audi", "vw", "ford"]

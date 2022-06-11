@@ -1,0 +1,13 @@
+Definición de:
+* Variable. Es un dato cuyo valor puede cambiar durante el curso de la ejecución de un programa de c+omputo
+
+* Strings. Son variables de tipo cadena de caractéres encerrados en comillas dobles o simples.
+
+* Funciones (argumentos, `return`). Una función es un fragmento o "pedazo" de códigos o instrucciones de programación
+  que cumplen con un objetivo o misión. los argunemntos son los datos que se le pasan a la función para que pueda realizar
+  su trabajo y return es la isnstrucción donde retorna o devuelve el resultado de las operaciones que haya realizado la mencionada función.
+
+* Declaraciones `if`. Son comandos o declaraciones de tomas de decisión en un programa, por lo general responden a cuestionamientos de
+  falso o verdadero, pudiendo conducir la ejecución de un programa de acuerdo a las diferentes opciones presentadas por esa toma de deciciones.
+
+* Valores booleanos (`true`, `false`). Son datos de tipo falso o verdadero-

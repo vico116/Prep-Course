@@ -1,0 +1,6 @@
+  * Objetos. Son datos parecidos al "array" pero de formación más compleja, que contienen atributos o propiedades (otros datos). 
+  * Propiedades. Son datos que forman parte de los objetos y que en su conjunto determinan las características de los objetos.
+  * Métodos. Son funciones que forman parte de los objetos y que realizan una tareá específica.
+  * Bucle `for…in`. Es un ciclo de programación de duración finita. Su duración es determinada por el cumplimiento (o no) de una condición.
+  * Notación de puntos vs notación de corchetes. es la forma en la que se definen las expresiones que forman parte de los objetos: 
+    objeto.propiedad es un ejemplo de notación de puntos y objeto["propiedad"] es ejemplo de la notación de corchetes
